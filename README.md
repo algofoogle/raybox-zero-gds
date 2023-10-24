@@ -1,8 +1,6 @@
 # raybox-zero-gds
 
-These are the results of hardening [raybox-zero](https://github.com/algofoogle/raybox-zero).
-
-See the `ew` branch for the main files.
+These are the results of hardening [raybox-zero, `ew` branch](https://github.com/algofoogle/raybox-zero/tree/ew).
 
 For the spec of my design (and in particular my top module and the intended way for it to be wired up to the clock, LA, and IO pads), see: [EWSPEC](https://github.com/algofoogle/raybox-zero/blob/ew/doc/EWSPEC.md).
 
