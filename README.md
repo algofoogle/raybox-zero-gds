@@ -6,5 +6,5 @@ For the spec of my design (and in particular my top module and the intended way 
 
 Note also that [`top_ew_algofoogle`](https://github.com/algofoogle/raybox-zero/blob/ew/src/rtl/top_ew_algofoogle.v) is my top module, which instantiates the main design (`rbzero`) and throws in a bunch of other debug mux stuff.
 
-I suspect its ports will need another wrapper, yet, to match `user_project_wrapper` net names...?
+I will also supply another Verilog snippet for how (per EWSPEC) to instantiate `top_ew_algofoogle`, and connect it to the respective `user_project_wrapper` ports.
 
